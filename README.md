@@ -94,8 +94,8 @@ http://127.0.0.1:5000
 
 ## 👩‍💻 Author
 
-**Jananii V**/
-**Sharini pooja . V**
+Jananii V https://github.com/Jananii-Vijaykumar
+Sharini pooja .V https://github.com/sharinipooja
 B.Tech CSE (Big Data Analytics)
 
 SRM Institute of Science and Technology
