@@ -85,13 +85,12 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 ### Home Page
-(Add screenshot here)
 
 ### Prediction Result
-(Add screenshot here)
+
 
 ### PDF Report
-(Add screenshot here)
+
 
 ## 👩‍💻 Author
 
